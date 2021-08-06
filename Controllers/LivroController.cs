@@ -16,7 +16,7 @@ namespace Biblioteca.Controllers
         {
             LivroService livroService = new LivroService();
 
-            if(l.Id == 0)
+            if (l.Id == 0)
             {
                 livroService.Inserir(l);
             }
@@ -32,7 +32,7 @@ namespace Biblioteca.Controllers
         {
             Autenticacao.CheckLogin(this);
             FiltrosLivros objFiltro = null;
-            if(!string.IsNullOrEmpty(filtro))
+            if (!string.IsNullOrEmpty(filtro))
             {
                 objFiltro = new FiltrosLivros();
                 objFiltro.Filtro = filtro;
