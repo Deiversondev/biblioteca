@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Biblioteca.csproj",
+  "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Biblioteca.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,77 +14402,77 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
       "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
       "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Livro\\Edicao.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Livro\\Edicao.cshtml",
       "TargetPath": "Views\\Livro\\Edicao.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Livro\\Listagem.cshtml",
       "TargetPath": "Views\\Livro\\Listagem.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
       "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Home\\Login.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
       "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Livro\\Cadastro.cshtml",
       "TargetPath": "Views\\Livro\\Cadastro.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Pichau\\Desktop\\Biblioteca\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     }
