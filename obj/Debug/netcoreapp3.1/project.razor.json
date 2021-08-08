@@ -14402,6 +14402,11 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Usuarios\\editarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\editarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
       "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
       "FileKind": "mvc"
@@ -14409,6 +14414,11 @@
     {
       "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
       "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Usuarios\\RegistrarUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\RegistrarUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14452,6 +14462,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Usuarios\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuarios\\NeedAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
       "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
       "FileKind": "mvc"
@@ -14459,6 +14474,11 @@
     {
       "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Usuarios\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\ListaDeUsuarios.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14474,6 +14494,16 @@
     {
       "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Usuarios\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\ExcluirUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Pichau\\Desktop\\biblioteca\\Views\\Usuarios\\cadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuarios\\cadastroRealizado.cshtml",
       "FileKind": "mvc"
     }
   ],
